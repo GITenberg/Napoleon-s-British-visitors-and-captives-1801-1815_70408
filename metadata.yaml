@@ -1,0 +1,35 @@
+_repo: Napoleon-s-British-visitors-and-captives-1801-1815_70408
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, John Goldworth
+    birthdate: 1836
+    deathdate: 1907
+    gutenberg_agent_id: '55746'
+    url: http://www.gutenberg.org/2009/agents/55746
+    wikipedia: https://en.wikipedia.org/wiki/John_Goldworth_Alger
+description: ''
+gutenberg_issued: '2023-03-29'
+identifiers:
+  gutenberg: '70408'
+  lccn: '05002006'
+language: en
+pgterms:marc904: https://archive.org/details/napoleonsbritish00algeuoft
+pgterms:marc905: 20181223050517alger
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: MWS, Karin Spence and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited States :$bJames Pott and Company, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with British'
+- !lcsh 'British -- France'
+- !lcc 'DC'
+- GITenberg
+title: Napoleon's British visitors and captives, 1801-1815
+url: http://www.gutenberg.org/ebooks/70408
